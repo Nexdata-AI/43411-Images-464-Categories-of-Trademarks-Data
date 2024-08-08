@@ -4,7 +4,7 @@
 ## Description
 43,411 Images-464 Categories of Trademarks Data. The collecting environments include indoor and outdoor scenes. in this dataset, the image is clear without watermark, each image contains at least one trademark. The dataset can be used for scene recognition and trademark classification.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/175?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/175?source=Github
 
 
 
